@@ -131,3 +131,10 @@ body {
 	}
 }
 }
+
+
+.jumbotron {
+	background: url('../images/jumb1.jpg') no-repeat;
+	padding-right: 10px;
+	padding-left: 10px;
+}
